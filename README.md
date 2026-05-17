@@ -171,5 +171,6 @@ If `/api/templates` is unavailable, the frontend shows 8 demo templates so the g
 - **Port 4200 in use** → `npm start -- --port 4300`.
 
 ---
+## Author
 
-Built with ❤️ — Notion aesthetic + Angular 17 + your microservices backend.
+Built with ❤️ - by Poonam Saraswat
